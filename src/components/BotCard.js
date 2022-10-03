@@ -27,7 +27,7 @@ function BotCard({ bot, botArmy, setBotArmy, setBotData, setActiveBot }) {
       setBotArmy((army) => army.filter((botArm) => botArm.id !== bot.id));
     } else {
       setActiveBot(bot)
-      //setBotArmy((army) => [...army, bot]);
+      
 
     }
   }
