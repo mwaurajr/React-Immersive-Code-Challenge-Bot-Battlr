@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/css/main.0a0f06b5.chunk.css",
+    "main.js": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/main.c9ae1da3.chunk.js",
+    "main.js.map": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/main.c9ae1da3.chunk.js.map",
+    "runtime-main.js": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/runtime-main.7206c3fb.js",
+    "runtime-main.js.map": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/runtime-main.7206c3fb.js.map",
+    "static/js/2.aea082ff.chunk.js": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/2.aea082ff.chunk.js",
+    "static/js/2.aea082ff.chunk.js.map": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/2.aea082ff.chunk.js.map",
+    "index.html": "/React-Immersive-Code-Challenge-Bot-Battlr%20/index.html",
+    "static/css/main.0a0f06b5.chunk.css.map": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/css/main.0a0f06b5.chunk.css.map",
+    "static/js/2.aea082ff.chunk.js.LICENSE.txt": "/React-Immersive-Code-Challenge-Bot-Battlr%20/static/js/2.aea082ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7206c3fb.js",
+    "static/js/2.aea082ff.chunk.js",
+    "static/css/main.0a0f06b5.chunk.css",
+    "static/js/main.c9ae1da3.chunk.js"
+  ]
+}
