@@ -14,7 +14,7 @@ function BotsPage() {
       .then((res) => res.json())
       .then((data) => setBotData(data));
   }, []);
-  console.log(botData)
+  // console.log(botData)
   return (
     <div>
       <YourBotArmy
