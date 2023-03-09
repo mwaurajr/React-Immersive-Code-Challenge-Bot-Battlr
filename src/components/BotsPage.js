@@ -11,8 +11,9 @@ function BotsPage() {
 
   useEffect(() => {
     fetch("http://localhost:8002/bots")
-      .then((res) => res.json())
-      .then((data) => setBotData(data));
+  .then((res) => res.json())
+  .then((data) => setBotData(data))
+  .catch((error) => console.log(error));
   }, []);
   // console.log(botData)
   return (

@@ -16,7 +16,7 @@ function BotCard({ bot, botArmy, setBotArmy, setBotData, setActiveBot }) {
     })
       .then((res) => res.json())
       .then(() => {
-        setBotData((bots) => bots.filter((botArm) => botArm.id !== bot.id))
+        setBotArmy((bots) => bots.filter((botArm) => botArm.id !== bot.id))
         alert('Bot deleted')
       }
       );
